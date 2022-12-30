@@ -3,7 +3,6 @@ import secrets
 from pathlib import Path
 
 from algorithms import algorithms
-from algorithms.aes import GenAES
 
 if __name__ == '__main__':
     lines = Path('text.txt').read_text(encoding='utf-8').split('\n')
