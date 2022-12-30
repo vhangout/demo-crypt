@@ -3,6 +3,7 @@ import pkgutil
 from .base import CryptBase
 from .caesar import Caesar
 from .vigenere import Viginere
+from .aes import GenAES
 
 
 def all_subclasses(cls):

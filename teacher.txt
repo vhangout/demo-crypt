@@ -1,0 +1,192 @@
+-= 1 =-
+--------------------------------
+Шифр Виженера
+Сообщение: YOUCANTMAKEANOMELETWITHOUTBREAKINGAFEWEGGS
+CRC32: 0xaa43d1cd
+Алфавит: ABCDEFGHIJKLMNOPQRSTUVWXYZ
+Длина ключа: (5, 10)
+Ключ: GRLNEOJP
+Шифрованое сообщение (без пробелов): EFFPEBCBGBPNRCVTRVEJMHQDAKMEIOTXTXLSIKNVMJ
+--------------------------------
+-= 2 =-
+--------------------------------
+Шифр AES (ECB - Electronic Codebook) частично утеряный ключ
+Сообщение: Strike while the iron is hot....
+CRC32: 0x3ef72340
+Алфавит: abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ0123456789
+Ключ: dRjZXwM4PENHmkq9
+Шифрованое сообщение (base64): +q3MrGVuopHpy4Nh5gG4nnp2Wjpv3U/Iu26zPJ2iGz0=
+--------------------------------
+-= 3 =-
+--------------------------------
+Шифр AES (ECB - Electronic Codebook) частично утеряный ключ
+Сообщение: Dont bite the hand that feeds you...............
+CRC32: 0xb568e85d
+Алфавит: abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ0123456789
+Ключ: v73Mu3Q1p2Q84v7p
+Шифрованое сообщение (base64): wJQr0JzjaOlWdNoQ5tA3wJ7ck/L/8QIyEVJaC9AdcEyUkS8FZcLhQVDN2RLIKZVB
+--------------------------------
+-= 4 =-
+--------------------------------
+Шифр AES (ECB - Electronic Codebook) частично утеряный ключ
+Сообщение: Dont put all your eggs in one basket............
+CRC32: 0x930e5334
+Алфавит: abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ0123456789
+Ключ: MCpfRxfxKF8ytgSU
+Шифрованое сообщение (base64): JD2Iz3rkI3U6PXZLnUk//n1g4cCubNsf52w2A24yiU2MCCLcS1IhveLXo07NpS/i
+--------------------------------
+-= 5 =-
+--------------------------------
+Шифр AES (ECB - Electronic Codebook) частично утеряный ключ
+Сообщение: The forbidden fruit is always the sweetest......
+CRC32: 0x9c62e77b
+Алфавит: abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ0123456789
+Ключ: jgoWpEgTLjLjYoAv
+Шифрованое сообщение (base64): mqS1jYbiJMfxTcLA545jz1KUonGZ5qa7vNpFYufKygB1QfBjEnUMekMXApH8uBja
+--------------------------------
+-= 6 =-
+--------------------------------
+Шифр Цезаря
+Сообщение: MANY HANDS MAKE LIGHT WORK
+CRC32: 0x774e42e6
+Алфавит: ABCDEFGHIJKLMNOPQRSTUVWXYZ
+Диапазон сдвига: (-20, 20)
+Ключ: 17
+Шифрованое сообщение: VJWH QJWMB VJTN URPQC FXAT
+--------------------------------
+-= 7 =-
+--------------------------------
+Шифр Виженера
+Сообщение: HONESTYISTHEBESTPOLICY
+CRC32: 0x6259708a
+Алфавит: ABCDEFGHIJKLMNOPQRSTUVWXYZ
+Длина ключа: (5, 10)
+Ключ: HWQWPPQCA
+Шифрованое сообщение (без пробелов): OKDAHIOKSADUXTHJROSESU
+--------------------------------
+-= 8 =-
+--------------------------------
+Шифр Виженера
+Сообщение: THEGRASSISALWAYSGREENERONTHEOTHERSIDEOFTHEFENCE
+CRC32: 0xae3aacc3
+Алфавит: ABCDEFGHIJKLMNOPQRSTUVWXYZ
+Длина ключа: (5, 10)
+Ключ: OUWGIP
+Шифрованое сообщение (без пробелов): HBAMZPGMEYIAKUUYOGSYJKZDBNDKWIVYNYQSSIBZPTTYJIM
+--------------------------------
+-= 9 =-
+--------------------------------
+Шифр AES (ECB - Electronic Codebook) частично утеряный ключ
+Сообщение: Dont judge a book by its cover..
+CRC32: 0xc6a279be
+Алфавит: abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ0123456789
+Ключ: 4yDDzAxlfiihDPIG
+Шифрованое сообщение (base64): sbWjFmzclWXtg3a0NvB4lo3c61/plGyowDyW/jnUoxc=
+--------------------------------
+-= 10 =-
+--------------------------------
+Шифр Виженера
+Сообщение: ANAPPLEADAYKEEPSTHEDOCTORAWAY
+CRC32: 0xe4d330d
+Алфавит: ABCDEFGHIJKLMNOPQRSTUVWXYZ
+Длина ключа: (5, 10)
+Ключ: AUUDNW
+Шифрованое сообщение (без пробелов): AHUSCHEUXDLGEYJVGDEXIFGKRUQDL
+--------------------------------
+-= 11 =-
+--------------------------------
+Шифр Цезаря
+Сообщение: ROME WASNT BUILT IN A DAY
+CRC32: 0x14b7399f
+Алфавит: ABCDEFGHIJKLMNOPQRSTUVWXYZ
+Диапазон сдвига: (-20, 20)
+Ключ: 1
+Шифрованое сообщение: QNLD VZRMS ATHKS HM Z CZX
+--------------------------------
+-= 12 =-
+--------------------------------
+Шифр AES (ECB - Electronic Codebook) частично утеряный ключ
+Сообщение: Actions speak louder than words.
+CRC32: 0x4af443d3
+Алфавит: abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ0123456789
+Ключ: CZQu1WX0P6wKRWFR
+Шифрованое сообщение (base64): 6+SEVnBmMqyecGJTLGi5T8AkZllaBqHa2JEKwQ9UF0M=
+--------------------------------
+-= 13 =-
+--------------------------------
+Шифр AES (ECB - Electronic Codebook) частично утеряный ключ
+Сообщение: Its no use crying over spilled milk.............
+CRC32: 0xa70fbd00
+Алфавит: abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ0123456789
+Ключ: 0fRpkp7v0fbaQqjN
+Шифрованое сообщение (base64): KASnrj9IOIeRYMv0milPc2wEl/ryP86aAVgKL9+M0zSioYkcj79Gw145hnQ6YVv7
+--------------------------------
+-= 14 =-
+--------------------------------
+Шифр Цезаря
+Сообщение: IF YOU SCRATCH MY BACK ILL SCRATCH YOURS
+CRC32: 0xbb67407e
+Алфавит: ABCDEFGHIJKLMNOPQRSTUVWXYZ
+Диапазон сдвига: (-20, 20)
+Ключ: -9
+Шифрованое сообщение: RO HXD BLAJCLQ VH KJLT RUU BLAJCLQ HXDAB
+--------------------------------
+-= 15 =-
+--------------------------------
+Шифр Цезаря
+Сообщение: LEARN TO WALK BEFORE YOU RUN
+CRC32: 0xde1570e9
+Алфавит: ABCDEFGHIJKLMNOPQRSTUVWXYZ
+Диапазон сдвига: (-20, 20)
+Ключ: -15
+Шифрованое сообщение: ATPGC ID LPAZ QTUDGT NDJ GJC
+--------------------------------
+-= 16 =-
+--------------------------------
+Шифр Цезаря
+Сообщение: DONT BITE OFF MORE THAN YOU CAN CHEW
+CRC32: 0xfd6feb2c
+Алфавит: ABCDEFGHIJKLMNOPQRSTUVWXYZ
+Диапазон сдвига: (-20, 20)
+Ключ: 14
+Шифрованое сообщение: PAZF NUFQ ARR YADQ FTMZ KAG OMZ OTQI
+--------------------------------
+-= 17 =-
+--------------------------------
+Шифр Виженера
+Сообщение: DONTMAKEAMOUNTAINOUTOFANANTHILL
+CRC32: 0x7ef32c4c
+Алфавит: ABCDEFGHIJKLMNOPQRSTUVWXYZ
+Длина ключа: (5, 10)
+Ключ: YOLXAI
+Шифрованое сообщение (без пробелов): BCYQMIISLJOCLHLFNWSHZCAVYBEEITJ
+--------------------------------
+-= 18 =-
+--------------------------------
+Шифр Виженера
+Сообщение: ALWAYSPUTYOURBESTFOOTFORWARD
+CRC32: 0x22eb06a0
+Алфавит: ABCDEFGHIJKLMNOPQRSTUVWXYZ
+Длина ключа: (5, 10)
+Ключ: PMIVQHKGY
+Шифрованое сообщение (без пробелов): PXEVOZZARNACMRLCZDDABAEYGGPS
+--------------------------------
+-= 19 =-
+--------------------------------
+Шифр Виженера
+Сообщение: THESQUEAKYWHEELGETSTHEGREASE
+CRC32: 0x46aaebec
+Алфавит: ABCDEFGHIJKLMNOPQRSTUVWXYZ
+Длина ключа: (5, 10)
+Ключ: CACBOLNF
+Шифрованое сообщение (без пробелов): VHGTEFRFMYYISPYLGTUUVPTWGAUF
+--------------------------------
+-= 20 =-
+--------------------------------
+Шифр AES (ECB - Electronic Codebook) частично утеряный ключ
+Сообщение: A rolling stone gathers no moss.
+CRC32: 0x6f839f70
+Алфавит: abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ0123456789
+Ключ: qhOvN2K27bpSCFNN
+Шифрованое сообщение (base64): i6E465K95ifhSiEO9LDUACZD29UYdjjljVN0ybS/ZJU=
+--------------------------------
